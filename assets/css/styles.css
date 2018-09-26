@@ -17,12 +17,11 @@ h2 {
   font-size: 20px !important;
 }
 
-
-.s3 {
+.m3 {
   background-color: white;
   height: 350px;
   max-width: 23%;
-  margin: 0 20px;
+  margin: 0 10px;
   text-align: center;
   box-shadow: 5px 5px #4c4b4a;
 }
